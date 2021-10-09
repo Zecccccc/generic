@@ -1,0 +1,14 @@
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.exe.config
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.exe
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.pdb
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.csprojAssemblyReference.cache
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.Properties.Resources.resources
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.csproj.GenerateResource.cache
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.exe
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.pdb
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.Arraylist.resources
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.Hash.resources
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.Q.resources
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.Sorted.resources
+C:\Users\Galanto\Desktop\EventDriven\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.Stacks.resources
